@@ -43,6 +43,8 @@ This analysis compares two high-growth companies: Rivian (EV manufacturer), and 
 
 # Financial Analysis RIVN vs HOOD
 
+![Financial Statement Comparison Summary](Financial%20Statement%20Comparison%20Summary.png)
+
 ### ✅  Revenue Growth: How quickly each company increases its total sales year over year.
 
 - RIVN showed exponential early growth (2,914% in 2022) likely due to launching production and delivering vehicles. This revenue growth slowed dramatically to 167% in 2023 and just 12% in 2024 due to supply chain disruptions and the company intentionally pausing production to focus on preparing for their new R2 vehicle line.
@@ -81,7 +83,12 @@ To assess the financial resilience and profitability potential of RIVN and HOOD,
 
 - RIVN benefits significantly from higher gross margins. Even without revenue growth, it turns cash flow positive at 50% gross margin. These results show if RIVN can scale production and increase gross margin, achieving a positive FCF is highly attainable.
 
+![RIVN Sensitivity Table](RIVN%20Sensitivity%20Table.png)
+
+
 - HOOD is highly sensitive to both gross margin and revenue growth. Even as revenue growth increases, gross margin has to increase significantly to achieve a positive FCF. These results show if HOOD can shift toward higher margin products they could scale to a positive FCF.
+
+![HOOD Sensitivity Table](HOOD%20Sensitivity%20Table.png)
 
 ## Where to Invest
 
@@ -93,5 +100,5 @@ While both Rivian and Robinhood are high-risk investments, Rivian carries greate
 - Create an interactive Tableau dashboard to visualize changes in metrics over time
 
 ## Links
-- Google Sheets (View Only)**: (https://docs.google.com/spreadsheets/d/1Ua-LBp_QRy8ak5t_DwKuKpUFflWGAKySn7LgvB4jA_g/edit?usp=sharing)
+- Google Sheets (View Only)**: [Financial Statement Analysis - Sheets](https://docs.google.com/spreadsheets/d/1Ua-LBp_QRy8ak5t_DwKuKpUFflWGAKySn7LgvB4jA_g/edit?usp=sharing)
 

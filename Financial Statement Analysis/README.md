@@ -93,6 +93,5 @@ While both Rivian and Robinhood are high-risk investments, Rivian carries greate
 - Create an interactive Tableau dashboard to visualize changes in metrics over time
 
 ## Links
-- Google Sheets (View Only)**: [Insert Google Sheets link here]  
-- **Screenshots Folder**: `/screenshots` (optional – for graphs, tables, DCF layout)
+- Google Sheets (View Only)**: (https://docs.google.com/spreadsheets/d/1Ua-LBp_QRy8ak5t_DwKuKpUFflWGAKySn7LgvB4jA_g/edit?usp=sharing)
 

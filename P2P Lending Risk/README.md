@@ -20,6 +20,10 @@ Tableau - data visualization
 
 ## Dashboard Preview
 
+![P2P Lending Risk Dashboard](P2P%20Lending%20Risk.png)
+
+
+
 
 View the Dashboard: [Click here to view on Tableau Public](https://public.tableau.com/app/profile/ari.lim.reyes/viz/P2PLendingRisk_17442426603830/ProsperLoanRiskDashboard)
 

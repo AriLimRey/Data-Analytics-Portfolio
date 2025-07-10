@@ -28,7 +28,7 @@ Tableau - data visualization
 
 
 
-View the Dashboard: [Click here to view on Tableau Public](https://public.tableau.com/app/profile/ari.lim.reyes/viz/P2PLendingRisk_17442426603830/ProsperLoanRiskDashboard)
+View the dashboard: [Click here to view on Tableau Public](https://public.tableau.com/app/profile/ari.lim.reyes/viz/P2PLendingRisk_17442426603830/ProsperLoanRiskDashboard)
 
 
 ## Business Insights

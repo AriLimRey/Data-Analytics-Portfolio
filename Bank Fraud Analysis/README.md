@@ -1,6 +1,6 @@
 # Bank Fraud Transactions – Fraud Detection Analysis
 
-## Overview
+## Project Overview
 
 This project analyzes a dataset of bank transactions to identify and visualize potential fraud patterns. Using SQL for data exploration and cleaning, and Tableau for interactive visualization, the dashboard helps users monitor fraud risk across different regions and transaction characteristics.
 

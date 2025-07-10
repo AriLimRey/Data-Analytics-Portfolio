@@ -1,6 +1,6 @@
 # Financial Statement Analyzer: Rivian vs. Robinhood
 
-## Overview
+## Project Overview
 This project compares the financial health and performance of two high-growth companies that went IPO (initial public offering) in 2021: Rivian (ticker symbol: RIVN), and Robinhood (ticker symbol: HOOD). It provides important financial information from past years to aid in predicting the company's future outlook.
 The goal is to simply analyze each company’s fundamentals and create a sensitivity analysis using metrics commonly used by investors and analysts, including revenue growth, margins, debt levels, and free cash flow.
 

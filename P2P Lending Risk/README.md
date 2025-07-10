@@ -4,7 +4,7 @@
 
 This project explores peer-to-peer (P2P) lending data from Prosper, a U.S.-based online lending platform. The goal was to identify risk trends in borrower demographics and understand which types of borrowers may present higher or lower default risk. This exploratory analysis focuses on income, occupation, DTI ratio, homeownership, and borrower location using data from 2010 to 2014.
 
-Data used in this project was obtained from [[Kaggle - Prosper Loan Data](https://www.kaggle.com/datasets/henryokam/prosper-loan-data?select=prosperLoanData.csv)]
+Data used in this project was obtained from [Kaggle - Prosper Loan Data](https://www.kaggle.com/datasets/henryokam/prosper-loan-data?select=prosperLoanData.csv)
 
 
 ## Objectives

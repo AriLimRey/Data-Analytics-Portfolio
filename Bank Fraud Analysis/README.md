@@ -24,24 +24,20 @@ Tableau – data visualization
 
 ## Dashboard Preview
 
+![Bank Fraud Risk](Bank%20Fraud%20Risk.png)
 
-## Key Features
+View the dashboard [Click here to view on Tableau Public](https://public.tableau.com/shared/HCWX5RS6M?:display_count=n&:origin=viz_share_link)
 
-Filters: Fraud Score, State, Count, Percent
+##  Business Insights
 
+Based on the findings of this analysis, the following insights emerge:
 
-Interactive Visualizations:
+- High-risk occupations and locations should be monitored more closely, as certain job roles and states showed a higher concentration of elevated fraud scores.
 
+- Most fraudulent activity occurred at high-range transaction amounts, suggesting that fraudsters may be attempting high risk, high reward transactions.
 
-Fraud Score by Transaction Value – Explore how fraud risk varies with transaction amount
+These insights can help the fraud prevention team tailor detection rules, allocate monitoring resources more effectively, and proactively address emerging fraud patterns.
 
+## What I'd Do Next
 
-Fraud Score Distribution – Understand how many transactions fall under each fraud risk level
-
-
-Summary Metrics: Total Transactions, Avg. Transaction Value, Fraud Count, High-Value Transactions, Max Transaction Amount
-
-
-
-
-
+Learn to build a machine learning model (R or Python) that can classify transactions based on historical fraud patterns.

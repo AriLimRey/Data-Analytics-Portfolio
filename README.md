@@ -10,11 +10,11 @@ As I grow into this new path, I’m excited to keep learning, collaborating, and
 
 ### Check out my projects:
 
-## - [Ecommerce Customer Behavior - KPI Dashboard](./Ecommerce%20Customer%20Behavior%20-%20KPI%20Dashboard)
+## - [E-commerce Customer Behavior - KPI Dashboard](./Ecommerce%20Customer%20Behavior%20-%20KPI%20Dashboard)
 
 ![Ecommerce Customer KPIs](Ecommerce%20Customer%20Behavior%20-%20KPI%20Dashboard/Ecommerce%20Customer%20KPIs.png)  
 
-This project analyzes customer behavior on an ecommerce platform using a publicly available dataset from Kaggle. The goal was to optimize product sales tactics by extracting key business insights and creating an interactive KPI dashboard that summarizes customer behavior, engagement, and sales performance.
+This project analyzes customer behavior on an e-commerce platform using a publicly available dataset from Kaggle. The goal was to optimize product sales tactics by extracting key business insights and creating an interactive KPI dashboard that summarizes customer behavior, engagement, and sales performance.
 
 ## - [Bank Fraud Analysis](./Bank%20Fraud%20Analysis)
 

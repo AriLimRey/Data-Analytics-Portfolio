@@ -1,8 +1,8 @@
-# Ecommerce Customer Behavior – KPI Dashboard
+# E-commerce Customer Behavior – KPI Dashboard
 
 ## Project Overview
 
-This project analyzes customer behavior on an ecommerce platform using a publicly available dataset from Kaggle. The goal was to optimize product sales tactics by extracting key business insights and creating an interactive KPI dashboard that summarizes customer behavior, engagement, and sales performance. 
+This project analyzes customer behavior on an e-commerce platform using a publicly available dataset from Kaggle. The goal was to optimize product sales tactics by extracting key business insights and creating an interactive KPI dashboard that summarizes customer behavior, engagement, and sales performance. 
 
 Data used in this project was obtained from [Kaggle - Ecommerce Consumer Behavior Analysis Data](https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data)
 

@@ -8,7 +8,7 @@ Over the past several months, I’ve focused on building foundational skills in 
 
 As I grow into this new path, I’m excited to keep learning, collaborating, and building tools that support data-driven decision making. I believe good analysis tells a story and I’m here to tell better ones with data.
 
-### Check out my projects below to see what I've learned:
+### Check out my projects to see what I've learned:
 
 ### - [Ecommerce Customer Behavior - KPI Dashboard](./Ecommerce%20Customer%20Behavior%20-%20KPI%20Dashboard)
 

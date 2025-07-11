@@ -4,9 +4,9 @@
 
 Hi, I'm Ari! With a background in procurement and supply chain, I'm making a career transition into data analytics to follow my passion for working with data, uncovering insights, and solving real-world problems.
 
-Over the past several months, I’ve focused on building foundational skills in Google Sheets, SQL, R, and Tableau through self-led projects that explore topics I care deeply about — including fintech, investing, fraud prevention, and e-commerce. Each project reflects my curiosity, analytical thinking, and desire to create something useful and practical.
+Over the past several months, I’ve focused on building foundational skills in Google Sheets, SQL, R, and Tableau through self-led projects that explore topics I care deeply about including fintech, investing, fraud prevention, and e-commerce. Each project reflects my curiosity, analytical thinking, and desire to create something useful and practical.
 
-As I grow into this new path, I’m excited to keep learning, collaborating, and building tools that support data-driven decision making. I believe good analysis tells a story — and I’m here to tell better ones with data.
+As I grow into this new path, I’m excited to keep learning, collaborating, and building tools that support data-driven decision making. I believe good analysis tells a story and I’m here to tell better ones with data.
 
 ### Check out my projects below to see what I've learned:
 
@@ -38,4 +38,4 @@ This project explores peer-to-peer (P2P) lending data from Prosper, a U.S.-based
 
 - [LinkedIn](http://linkedin.com/in/AriReyes)
 
-- [E-Mail](arilimreyes@gmail.com)
+- E-Mail: arilimreyes@gmail.com
